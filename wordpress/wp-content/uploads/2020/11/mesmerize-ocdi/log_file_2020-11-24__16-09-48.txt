@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost
+Data file = /var/www/html/wp-content/uploads/2020/11/mesmerize-ocdi/demo-content-import-file_2020-11-24__16-09-48.xml
+Widget file = /var/www/html/wp-content/uploads/2020/11/mesmerize-ocdi/demo-widgets-import-file_2020-11-24__16-09-48.json
+Customizer file = /var/www/html/wp-content/uploads/2020/11/mesmerize-ocdi/demo-customizer-import-file_2020-11-24__16-09-48.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Oblast widgetu boční lišty : 
+
+Vyhledávání - No Title - Widget already exists
+Nejnovější příspěvky - No Title - Widget already exists
+Nejnovější komentáře - No Title - Widget already exists
+Archivy - No Title - Widget already exists
+Rubriky - No Title - Widget already exists
+Základní informace - No Title - Widget already exists
+
+Pages Sidebar : 
+
+Vyhledávání - Search - Imported
+Stránky - Pages - Imported
+Text - Text Box - Imported
+
+
+
+---Importing widgets---
+Oblast widgetu boční lišty : 
+
+Vyhledávání - No Title - Widget already exists
+Nejnovější příspěvky - No Title - Widget already exists
+Nejnovější komentáře - No Title - Widget already exists
+Archivy - No Title - Widget already exists
+Rubriky - No Title - Widget already exists
+Základní informace - No Title - Widget already exists
+
+Pages Sidebar : 
+
+Vyhledávání - Search - Widget already exists
+Stránky - Pages - Widget already exists
+Text - Text Box - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
